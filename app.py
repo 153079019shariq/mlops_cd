@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 @app.route("/ping/<username>", methods=['GET'])
 def ping(username):
-    return  f"Hi ,{username}  is  working!!" 
+    return  f"Hi ,{username}  is  working. welcome to flask!!" 
 
 model_pickle = open("./mlops_demo/artefacts/classifier.pkl", "rb")
 clf = pickle.load(model_pickle)
