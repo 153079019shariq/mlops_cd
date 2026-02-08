@@ -82,6 +82,5 @@
     },
     "registeredAt": "2026-02-08T16:40:08.642Z",
     "registeredBy": "arn:aws:sts::964610783110:assumed-role/AWSReservedSSO_InstructorsAdministratorAccess_68e83a2481d5e38b/shariq.ahmad_1@scaler.com",
-    "enableFaultInjection": false,
     "tags": []
 }
